@@ -77,3 +77,10 @@ input[type="text"] {
     border: none;
     color: #e6e7e8;
 }
+
+.input-text {
+    text-align: right !important;
+    padding-right: 48px;
+    width: 100%;
+    font-size: 48px;
+}
